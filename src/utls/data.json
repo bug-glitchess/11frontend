@@ -9,7 +9,31 @@
         "password":"password123",
         "point":100,
         "type":"teacher",
-        "created_at": "2026-03-11"
+        "created_at": "2026-03-11",
+        "image" : "https://d22e6o9mp4t2lx.cloudfront.net/cms/Screenshot_2024_04_05_130256_473f8428ec.png",
+        "products":[
+            {
+                "id":1,
+                "name":"iPhone 14 Pro Max",
+                "description": "just a phone",
+                "price": 1200,
+                "image":"https://th.bing.com/th/id/OIP.wKqHiRabHboYsZaslBSWxQHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+            },
+            {
+                "id":2,
+                "name":"Shirt",
+                "description": "just a shirt",
+                "price": 50,
+                "image":"https://cdni.llbean.net/is/image/wim/228061_55853_41"
+            },
+            {
+                "id":3,
+                "name":"Airpods Pro",
+                "description": "just earbuds",
+                "price": 200,
+                "image":"https://th.bing.com/th/id/OIP.YOnKupOH0HGwFNZwGcwfXwHaHa?w=176&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3"
+            }
+        ]
     },
     {
         "id": 2,
@@ -21,7 +45,31 @@
         "password":"password123",
         "point":100,
         "type":"student",
-        "created_at": "2026-03-11"
+        "created_at": "2026-03-11",
+        "image" : "https://d22e6o9mp4t2lx.cloudfront.net/cms/Screenshot_2024_04_05_130256_473f8428ec.png",
+        "products":[
+            {
+                "id":1,
+                "name":"iPhone 14 Pro Max",
+                "description": "just a phone",
+                "price": 1200,
+                "image":"https://th.bing.com/th/id/OIP.wKqHiRabHboYsZaslBSWxQHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+            },
+            {
+                "id":2,
+                "name":"Shirt",
+                "description": "just a shirt",
+                "price": 50,
+                "image":"https://cdni.llbean.net/is/image/wim/228061_55853_41"
+            },
+            {
+                "id":3,
+                "name":"Airpods Pro",
+                "description": "just earbuds",
+                "price": 200,
+                "image":"https://th.bing.com/th/id/OIP.YOnKupOH0HGwFNZwGcwfXwHaHa?w=176&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3"
+            }
+        ]
     },
     {
         "id": 3,
@@ -33,7 +81,31 @@
         "password":"password123",
         "point":100,
         "type":"student",
-        "created_at": "2026-03-11"
+        "created_at": "2026-03-11",
+        "image" : "https://d22e6o9mp4t2lx.cloudfront.net/cms/Screenshot_2024_04_05_130256_473f8428ec.png",
+        "products":[
+            {
+                "id":1,
+                "name":"iPhone 14 Pro Max",
+                "description": "just a phone",
+                "price": 1200,
+                "image":"https://th.bing.com/th/id/OIP.wKqHiRabHboYsZaslBSWxQHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+            },
+            {
+                "id":2,
+                "name":"Shirt",
+                "description": "just a shirt",
+                "price": 50,
+                "image":"https://cdni.llbean.net/is/image/wim/228061_55853_41"
+            },
+            {
+                "id":3,
+                "name":"Airpods Pro",
+                "description": "just earbuds",
+                "price": 200,
+                "image":"https://th.bing.com/th/id/OIP.YOnKupOH0HGwFNZwGcwfXwHaHa?w=176&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3"
+            }
+        ]
     },
     {
         "id": 4,
@@ -45,7 +117,31 @@
         "password":"password123",
         "point":100,
         "type":"student",
-        "created_at": "2026-03-11"
+        "created_at": "2026-03-11",
+        "image" : "https://d22e6o9mp4t2lx.cloudfront.net/cms/Screenshot_2024_04_05_130256_473f8428ec.png",
+        "products":[
+            {
+                "id":1,
+                "name":"iPhone 14 Pro Max",
+                "description": "just a phone",
+                "price": 1200,
+                "image":"https://th.bing.com/th/id/OIP.wKqHiRabHboYsZaslBSWxQHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+            },
+            {
+                "id":2,
+                "name":"Shirt",
+                "description": "just a shirt",
+                "price": 50,
+                "image":"https://cdni.llbean.net/is/image/wim/228061_55853_41"
+            },
+            {
+                "id":3,
+                "name":"Airpods Pro",
+                "description": "just earbuds",
+                "price": 200,
+                "image":"https://th.bing.com/th/id/OIP.YOnKupOH0HGwFNZwGcwfXwHaHa?w=176&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3"
+            }
+        ]
     },
     {
         "id": 5,
@@ -57,7 +153,31 @@
         "password":"password123",
         "point":100,
         "type":"student",
-        "created_at": "2026-03-11"
+        "created_at": "2026-03-11",
+        "image" : "https://d22e6o9mp4t2lx.cloudfront.net/cms/Screenshot_2024_04_05_130256_473f8428ec.png",
+        "products":[
+            {
+                "id":1,
+                "name":"iPhone 14 Pro Max",
+                "description": "just a phone",
+                "price": 1200,
+                "image":"https://th.bing.com/th/id/OIP.wKqHiRabHboYsZaslBSWxQHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+            },
+            {
+                "id":2,
+                "name":"Shirt",
+                "description": "just a shirt",
+                "price": 50,
+                "image":"https://cdni.llbean.net/is/image/wim/228061_55853_41"
+            },
+            {
+                "id":3,
+                "name":"Airpods Pro",
+                "description": "just earbuds",
+                "price": 200,
+                "image":"https://th.bing.com/th/id/OIP.YOnKupOH0HGwFNZwGcwfXwHaHa?w=176&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3"
+            }
+        ]
     },
     {
         "id": 6,
@@ -69,7 +189,31 @@
         "password":"password123",
         "point":100,
         "type":"student",
-        "created_at": "2026-03-11"
+        "created_at": "2026-03-11",
+        "image" : "https://d22e6o9mp4t2lx.cloudfront.net/cms/Screenshot_2024_04_05_130256_473f8428ec.png",
+        "products":[
+            {
+                "id":1,
+                "name":"iPhone 14 Pro Max",
+                "description": "just a phone",
+                "price": 1200,
+                "image":"https://th.bing.com/th/id/OIP.wKqHiRabHboYsZaslBSWxQHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+            },
+            {
+                "id":2,
+                "name":"Shirt",
+                "description": "just a shirt",
+                "price": 50,
+                "image":"https://cdni.llbean.net/is/image/wim/228061_55853_41"
+            },
+            {
+                "id":3,
+                "name":"Airpods Pro",
+                "description": "just earbuds",
+                "price": 200,
+                "image":"https://th.bing.com/th/id/OIP.YOnKupOH0HGwFNZwGcwfXwHaHa?w=176&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3"
+            }
+        ]
     },
     {
         "id": 7,
@@ -81,7 +225,31 @@
         "password":"password123",
         "point":100,
         "type":"student",
-        "createwd_at": "2026-03-11"
+        "createwd_at": "2026-03-11",
+        "image" : "https://d22e6o9mp4t2lx.cloudfront.net/cms/Screenshot_2024_04_05_130256_473f8428ec.png",
+        "products":[
+            {
+                "id":1,
+                "name":"iPhone 14 Pro Max",
+                "description": "just a phone",
+                "price": 1200,
+                "image":"https://th.bing.com/th/id/OIP.wKqHiRabHboYsZaslBSWxQHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+            },
+            {
+                "id":2,
+                "name":"Shirt",
+                "description": "just a shirt",
+                "price": 50,
+                "image":"https://cdni.llbean.net/is/image/wim/228061_55853_41"
+            },
+            {
+                "id":3,
+                "name":"Airpods Pro",
+                "description": "just earbuds",
+                "price": 200,
+                "image":"https://th.bing.com/th/id/OIP.YOnKupOH0HGwFNZwGcwfXwHaHa?w=176&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3"
+            }
+        ]
     },
     {
         "id": 8,
@@ -93,7 +261,31 @@
         "password":"password123",
         "point":100,
         "type":"student",
-        "created_at": "2026-03-11"
+        "created_at": "2026-03-11",
+        "image" : "https://d22e6o9mp4t2lx.cloudfront.net/cms/Screenshot_2024_04_05_130256_473f8428ec.png",
+        "products":[
+            {
+                "id":1,
+                "name":"iPhone 14 Pro Max",
+                "description": "just a phone",
+                "price": 1200,
+                "image":"https://th.bing.com/th/id/OIP.wKqHiRabHboYsZaslBSWxQHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+            },
+            {
+                "id":2,
+                "name":"Shirt",
+                "description": "just a shirt",
+                "price": 50,
+                "image":"https://cdni.llbean.net/is/image/wim/228061_55853_41"
+            },
+            {
+                "id":3,
+                "name":"Airpods Pro",
+                "description": "just earbuds",
+                "price": 200,
+                "image":"https://th.bing.com/th/id/OIP.YOnKupOH0HGwFNZwGcwfXwHaHa?w=176&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3"
+            }
+        ]
     },
     {
         "id": 9,
@@ -105,7 +297,31 @@
         "password":"password123",
         "point":100,
         "type":"student",
-        "created_at": "2026-03-11"
+        "created_at": "2026-03-11",
+        "image" : "https://d22e6o9mp4t2lx.cloudfront.net/cms/Screenshot_2024_04_05_130256_473f8428ec.png",
+        "products":[
+            {
+                "id":1,
+                "name":"iPhone 14 Pro Max",
+                "description": "just a phone",
+                "price": 1200,
+                "image":"https://th.bing.com/th/id/OIP.wKqHiRabHboYsZaslBSWxQHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+            },
+            {
+                "id":2,
+                "name":"Shirt",
+                "description": "just a shirt",
+                "price": 50,
+                "image":"https://cdni.llbean.net/is/image/wim/228061_55853_41"
+            },
+            {
+                "id":3,
+                "name":"Airpods Pro",
+                "description": "just earbuds",
+                "price": 200,
+                "image":"https://th.bing.com/th/id/OIP.YOnKupOH0HGwFNZwGcwfXwHaHa?w=176&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3"
+            }
+        ]
     },
     {
         "id": 10,
@@ -117,7 +333,31 @@
         "password":"password123",
         "point":100,
         "type":"student",
-        "created_at": "2026-03-11"
+        "created_at": "2026-03-11",
+        "image" : "https://d22e6o9mp4t2lx.cloudfront.net/cms/Screenshot_2024_04_05_130256_473f8428ec.png",
+        "products":[
+            {
+                "id":1,
+                "name":"iPhone 14 Pro Max",
+                "description": "just a phone",
+                "price": 1200,
+                "image":"https://th.bing.com/th/id/OIP.wKqHiRabHboYsZaslBSWxQHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+            },
+            {
+                "id":2,
+                "name":"Shirt",
+                "description": "just a shirt",
+                "price": 50,
+                "image":"https://cdni.llbean.net/is/image/wim/228061_55853_41"
+            },
+            {
+                "id":3,
+                "name":"Airpods Pro",
+                "description": "just earbuds",
+                "price": 200,
+                "image":"https://th.bing.com/th/id/OIP.YOnKupOH0HGwFNZwGcwfXwHaHa?w=176&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3"
+            }
+        ]
     },
     {
         "id": 11,
@@ -129,7 +369,31 @@
         "password":"password123",
         "point":100,
         "type":"student",
-        "created_at": "2026-03-11"
+        "created_at": "2026-03-11",
+        "image" : "https://d22e6o9mp4t2lx.cloudfront.net/cms/Screenshot_2024_04_05_130256_473f8428ec.png",
+        "products":[
+            {
+                "id":1,
+                "name":"iPhone 14 Pro Max",
+                "description": "just a phone",
+                "price": 1200,
+                "image":"https://th.bing.com/th/id/OIP.wKqHiRabHboYsZaslBSWxQHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+            },
+            {
+                "id":2,
+                "name":"Shirt",
+                "description": "just a shirt",
+                "price": 50,
+                "image":"https://cdni.llbean.net/is/image/wim/228061_55853_41"
+            },
+            {
+                "id":3,
+                "name":"Airpods Pro",
+                "description": "just earbuds",
+                "price": 200,
+                "image":"https://th.bing.com/th/id/OIP.YOnKupOH0HGwFNZwGcwfXwHaHa?w=176&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3"
+            }
+        ]
     },
     {
         "id": 12,
@@ -141,7 +405,31 @@
         "password":"password123",
         "point":100,
         "type":"student",
-        "created_at": "2026-03-11"
+        "created_at": "2026-03-11",
+        "image" : "https://d22e6o9mp4t2lx.cloudfront.net/cms/Screenshot_2024_04_05_130256_473f8428ec.png",
+        "products":[
+            {
+                "id":1,
+                "name":"iPhone 14 Pro Max",
+                "description": "just a phone",
+                "price": 1200,
+                "image":"https://th.bing.com/th/id/OIP.wKqHiRabHboYsZaslBSWxQHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+            },
+            {
+                "id":2,
+                "name":"Shirt",
+                "description": "just a shirt",
+                "price": 50,
+                "image":"https://cdni.llbean.net/is/image/wim/228061_55853_41"
+            },
+            {
+                "id":3,
+                "name":"Airpods Pro",
+                "description": "just earbuds",
+                "price": 200,
+                "image":"https://th.bing.com/th/id/OIP.YOnKupOH0HGwFNZwGcwfXwHaHa?w=176&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3"
+            }
+        ]
     },
     {
         "id": 13,
@@ -153,7 +441,31 @@
         "password":"password123",
         "point":100,
         "type":"student",
-        "created_at": "2026-03-11"
+        "created_at": "2026-03-11",
+        "image" : "https://d22e6o9mp4t2lx.cloudfront.net/cms/Screenshot_2024_04_05_130256_473f8428ec.png",
+        "products":[
+            {
+                "id":1,
+                "name":"iPhone 14 Pro Max",
+                "description": "just a phone",
+                "price": 1200,
+                "image":"https://th.bing.com/th/id/OIP.wKqHiRabHboYsZaslBSWxQHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+            },
+            {
+                "id":2,
+                "name":"Shirt",
+                "description": "just a shirt",
+                "price": 50,
+                "image":"https://cdni.llbean.net/is/image/wim/228061_55853_41"
+            },
+            {
+                "id":3,
+                "name":"Airpods Pro",
+                "description": "just earbuds",
+                "price": 200,
+                "image":"https://th.bing.com/th/id/OIP.YOnKupOH0HGwFNZwGcwfXwHaHa?w=176&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3"
+            }
+        ]
     },
     {
         "id": 14,
@@ -165,7 +477,31 @@
         "password":"password123",
         "point":100,
         "type":"student",
-        "created_at": "2026-03-11"
+        "created_at": "2026-03-11",
+        "image" : "https://d22e6o9mp4t2lx.cloudfront.net/cms/Screenshot_2024_04_05_130256_473f8428ec.png",
+        "products":[
+            {
+                "id":1,
+                "name":"iPhone 14 Pro Max",
+                "description": "just a phone",
+                "price": 1200,
+                "image":"https://th.bing.com/th/id/OIP.wKqHiRabHboYsZaslBSWxQHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+            },
+            {
+                "id":2,
+                "name":"Shirt",
+                "description": "just a shirt",
+                "price": 50,
+                "image":"https://cdni.llbean.net/is/image/wim/228061_55853_41"
+            },
+            {
+                "id":3,
+                "name":"Airpods Pro",
+                "description": "just earbuds",
+                "price": 200,
+                "image":"https://th.bing.com/th/id/OIP.YOnKupOH0HGwFNZwGcwfXwHaHa?w=176&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3"
+            }
+        ]
     },
     {
         "id": 15,
@@ -177,7 +513,31 @@
         "password":"password123",
         "point":100,
         "type":"student",
-        "created_at": "2026-03-11"
+        "created_at": "2026-03-11",
+        "image" : "https://d22e6o9mp4t2lx.cloudfront.net/cms/Screenshot_2024_04_05_130256_473f8428ec.png",
+        "products":[
+            {
+                "id":1,
+                "name":"iPhone 14 Pro Max",
+                "description": "just a phone",
+                "price": 1200,
+                "image":"https://th.bing.com/th/id/OIP.wKqHiRabHboYsZaslBSWxQHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+            },
+            {
+                "id":2,
+                "name":"Shirt",
+                "description": "just a shirt",
+                "price": 50,
+                "image":"https://cdni.llbean.net/is/image/wim/228061_55853_41"
+            },
+            {
+                "id":3,
+                "name":"Airpods Pro",
+                "description": "just earbuds",
+                "price": 200,
+                "image":"https://th.bing.com/th/id/OIP.YOnKupOH0HGwFNZwGcwfXwHaHa?w=176&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3"
+            }
+        ]
     },
     {
         "id": 16,
@@ -189,7 +549,31 @@
         "password":"password123",
         "point":100,
         "type":"student",
-        "created_at": "2026-03-11"
+        "created_at": "2026-03-11",
+        "image" : "https://d22e6o9mp4t2lx.cloudfront.net/cms/Screenshot_2024_04_05_130256_473f8428ec.png",
+        "products":[
+            {
+                "id":1,
+                "name":"iPhone 14 Pro Max",
+                "description": "just a phone",
+                "price": 1200,
+                "image":"https://th.bing.com/th/id/OIP.wKqHiRabHboYsZaslBSWxQHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+            },
+            {
+                "id":2,
+                "name":"Shirt",
+                "description": "just a shirt",
+                "price": 50,
+                "image":"https://cdni.llbean.net/is/image/wim/228061_55853_41"
+            },
+            {
+                "id":3,
+                "name":"Airpods Pro",
+                "description": "just earbuds",
+                "price": 200,
+                "image":"https://th.bing.com/th/id/OIP.YOnKupOH0HGwFNZwGcwfXwHaHa?w=176&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3"
+            }
+        ]
     },
     {
         "id": 17,
@@ -201,7 +585,31 @@
         "password":"password123",
         "point":100,
         "type":"student",
-        "created_at": "2026-03-11"
+        "created_at": "2026-03-11",
+        "image" : "https://d22e6o9mp4t2lx.cloudfront.net/cms/Screenshot_2024_04_05_130256_473f8428ec.png",
+        "products":[
+            {
+                "id":1,
+                "name":"iPhone 14 Pro Max",
+                "description": "just a phone",
+                "price": 1200,
+                "image":"https://th.bing.com/th/id/OIP.wKqHiRabHboYsZaslBSWxQHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+            },
+            {
+                "id":2,
+                "name":"Shirt",
+                "description": "just a shirt",
+                "price": 50,
+                "image":"https://cdni.llbean.net/is/image/wim/228061_55853_41"
+            },
+            {
+                "id":3,
+                "name":"Airpods Pro",
+                "description": "just earbuds",
+                "price": 200,
+                "image":"https://th.bing.com/th/id/OIP.YOnKupOH0HGwFNZwGcwfXwHaHa?w=176&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3"
+            }
+        ]
     },
     {
         "id": 18,
@@ -213,7 +621,31 @@
         "password":"password123",
         "point":100,
         "type":"student",
-        "created_at": "2026-03-11"
+        "created_at": "2026-03-11",
+        "image" : "https://d22e6o9mp4t2lx.cloudfront.net/cms/Screenshot_2024_04_05_130256_473f8428ec.png",
+        "products":[
+            {
+                "id":1,
+                "name":"iPhone 14 Pro Max",
+                "description": "just a phone",
+                "price": 1200,
+                "image":"https://th.bing.com/th/id/OIP.wKqHiRabHboYsZaslBSWxQHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+            },
+            {
+                "id":2,
+                "name":"Shirt",
+                "description": "just a shirt",
+                "price": 50,
+                "image":"https://cdni.llbean.net/is/image/wim/228061_55853_41"
+            },
+            {
+                "id":3,
+                "name":"Airpods Pro",
+                "description": "just earbuds",
+                "price": 200,
+                "image":"https://th.bing.com/th/id/OIP.YOnKupOH0HGwFNZwGcwfXwHaHa?w=176&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3"
+            }
+        ]
     },
     {
         "id": 19,
@@ -225,7 +657,31 @@
         "password":"password123",
         "point":100,
         "type":"student",
-        "created_at": "2026-03-11"
+        "created_at": "2026-03-11",
+        "image" : "https://d22e6o9mp4t2lx.cloudfront.net/cms/Screenshot_2024_04_05_130256_473f8428ec.png",
+        "products":[
+            {
+                "id":1,
+                "name":"iPhone 14 Pro Max",
+                "description": "just a phone",
+                "price": 1200,
+                "image":"https://th.bing.com/th/id/OIP.wKqHiRabHboYsZaslBSWxQHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+            },
+            {
+                "id":2,
+                "name":"Shirt",
+                "description": "just a shirt",
+                "price": 50,
+                "image":"https://cdni.llbean.net/is/image/wim/228061_55853_41"
+            },
+            {
+                "id":3,
+                "name":"Airpods Pro",
+                "description": "just earbuds",
+                "price": 200,
+                "image":"https://th.bing.com/th/id/OIP.YOnKupOH0HGwFNZwGcwfXwHaHa?w=176&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3"
+            }
+        ]
     },
     {
         "id": 20,
@@ -237,7 +693,31 @@
         "password":"password123",
         "point":100,
         "type":"student",
-        "created_at": "2026-03-11"
+        "created_at": "2026-03-11",
+        "image" : "https://d22e6o9mp4t2lx.cloudfront.net/cms/Screenshot_2024_04_05_130256_473f8428ec.png",
+        "products":[
+            {
+                "id":1,
+                "name":"iPhone 14 Pro Max",
+                "description": "just a phone",
+                "price": 1200,
+                "image":"https://th.bing.com/th/id/OIP.wKqHiRabHboYsZaslBSWxQHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+            },
+            {
+                "id":2,
+                "name":"Shirt",
+                "description": "just a shirt",
+                "price": 50,
+                "image":"https://cdni.llbean.net/is/image/wim/228061_55853_41"
+            },
+            {
+                "id":3,
+                "name":"Airpods Pro",
+                "description": "just earbuds",
+                "price": 200,
+                "image":"https://th.bing.com/th/id/OIP.YOnKupOH0HGwFNZwGcwfXwHaHa?w=176&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3"
+            }
+        ]
     },
     {
         "id": 21,
@@ -249,7 +729,31 @@
         "password":"password123",
         "point":100,
         "type":"student",
-        "created_at": "2026-03-11"
+        "created_at": "2026-03-11",
+        "image" : "https://d22e6o9mp4t2lx.cloudfront.net/cms/Screenshot_2024_04_05_130256_473f8428ec.png",
+        "products":[
+            {
+                "id":1,
+                "name":"iPhone 14 Pro Max",
+                "description": "just a phone",
+                "price": 1200,
+                "image":"https://th.bing.com/th/id/OIP.wKqHiRabHboYsZaslBSWxQHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+            },
+            {
+                "id":2,
+                "name":"Shirt",
+                "description": "just a shirt",
+                "price": 50,
+                "image":"https://cdni.llbean.net/is/image/wim/228061_55853_41"
+            },
+            {
+                "id":3,
+                "name":"Airpods Pro",
+                "description": "just earbuds",
+                "price": 200,
+                "image":"https://th.bing.com/th/id/OIP.YOnKupOH0HGwFNZwGcwfXwHaHa?w=176&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3"
+            }
+        ]
     },
     {
         "id": 22,
@@ -261,7 +765,31 @@
         "password":"password123",
         "point":100,
         "type":"student",
-        "created_at": "2026-03-11"
+        "created_at": "2026-03-11",
+        "image" : "https://d22e6o9mp4t2lx.cloudfront.net/cms/Screenshot_2024_04_05_130256_473f8428ec.png",
+        "products":[
+            {
+                "id":1,
+                "name":"iPhone 14 Pro Max",
+                "description": "just a phone",
+                "price": 1200,
+                "image":"https://th.bing.com/th/id/OIP.wKqHiRabHboYsZaslBSWxQHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+            },
+            {
+                "id":2,
+                "name":"Shirt",
+                "description": "just a shirt",
+                "price": 50,
+                "image":"https://cdni.llbean.net/is/image/wim/228061_55853_41"
+            },
+            {
+                "id":3,
+                "name":"Airpods Pro",
+                "description": "just earbuds",
+                "price": 200,
+                "image":"https://th.bing.com/th/id/OIP.YOnKupOH0HGwFNZwGcwfXwHaHa?w=176&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3"
+            }
+        ]
     },
     {
         "id": 23,
@@ -273,7 +801,31 @@
         "password":"password123",
         "point":100,
         "type":"student",
-        "created_at": "2026-03-11"
+        "created_at": "2026-03-11",
+        "image" : "https://d22e6o9mp4t2lx.cloudfront.net/cms/Screenshot_2024_04_05_130256_473f8428ec.png",
+        "products":[
+            {
+                "id":1,
+                "name":"iPhone 14 Pro Max",
+                "description": "just a phone",
+                "price": 1200,
+                "image":"https://th.bing.com/th/id/OIP.wKqHiRabHboYsZaslBSWxQHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+            },
+            {
+                "id":2,
+                "name":"Shirt",
+                "description": "just a shirt",
+                "price": 50,
+                "image":"https://cdni.llbean.net/is/image/wim/228061_55853_41"
+            },
+            {
+                "id":3,
+                "name":"Airpods Pro",
+                "description": "just earbuds",
+                "price": 200,
+                "image":"https://th.bing.com/th/id/OIP.YOnKupOH0HGwFNZwGcwfXwHaHa?w=176&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3"
+            }
+        ]
     },
     {
         "id": 24,
@@ -285,7 +837,31 @@
         "password":"password123",
         "point":100,
         "type":"student",
-        "created_at": "2026-03-11"
+        "created_at": "2026-03-11",
+        "image" : "https://d22e6o9mp4t2lx.cloudfront.net/cms/Screenshot_2024_04_05_130256_473f8428ec.png",
+        "products":[
+            {
+                "id":1,
+                "name":"iPhone 14 Pro Max",
+                "description": "just a phone",
+                "price": 1200,
+                "image":"https://th.bing.com/th/id/OIP.wKqHiRabHboYsZaslBSWxQHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+            },
+            {
+                "id":2,
+                "name":"Shirt",
+                "description": "just a shirt",
+                "price": 50,
+                "image":"https://cdni.llbean.net/is/image/wim/228061_55853_41"
+            },
+            {
+                "id":3,
+                "name":"Airpods Pro",
+                "description": "just earbuds",
+                "price": 200,
+                "image":"https://th.bing.com/th/id/OIP.YOnKupOH0HGwFNZwGcwfXwHaHa?w=176&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3"
+            }
+        ]
     },
     {
         "id": 25,
@@ -297,6 +873,175 @@
         "password":"password123",
         "point":100,
         "type":"student",
-        "created_at": "2026-03-11"
+        "created_at": "2026-03-11",
+        "image" : "https://d22e6o9mp4t2lx.cloudfront.net/cms/Screenshot_2024_04_05_130256_473f8428ec.png",
+        "products":[
+            {
+                "id":1,
+                "name":"iPhone 14 Pro Max",
+                "description": "just a phone",
+                "price": 1200,
+                "image":"https://th.bing.com/th/id/OIP.wKqHiRabHboYsZaslBSWxQHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+            },
+            {
+                "id":2,
+                "name":"Shirt",
+                "description": "just a shirt",
+                "price": 50,
+                "image":"https://cdni.llbean.net/is/image/wim/228061_55853_41"
+            },
+            {
+                "id":3,
+                "name":"Airpods Pro",
+                "description": "just earbuds",
+                "price": 200,
+                "image":"https://th.bing.com/th/id/OIP.YOnKupOH0HGwFNZwGcwfXwHaHa?w=176&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "first_name": "Adiyakhuu",
+        "last_name": "Altandorj",
+        "email": "adiyakhuu@nhs.edu.mn",
+        "age": 45,
+        "country": "Mongolia",
+        "password":"password123",
+        "point":100,
+        "type":"teacher",
+        "created_at": "2026-03-25",
+        "image" : "https://d22e6o9mp4t2lx.cloudfront.net/cms/Screenshot_2024_04_05_130256_473f8428ec.png",
+        "products":[
+            {
+                "id":1,
+                "name":"iPhone 14 Pro Max",
+                "description": "just a phone",
+                "price": 1200,
+                "image":"https://th.bing.com/th/id/OIP.wKqHiRabHboYsZaslBSWxQHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+            },
+            {
+                "id":2,
+                "name":"Shirt",
+                "description": "just a shirt",
+                "price": 50,
+                "image":"https://cdni.llbean.net/is/image/wim/228061_55853_41"
+            },
+            {
+                "id":3,
+                "name":"Airpods Pro",
+                "description": "just earbuds",
+                "price": 200,
+                "image":"https://th.bing.com/th/id/OIP.YOnKupOH0HGwFNZwGcwfXwHaHa?w=176&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "first_name": "Munkh-Orgil",
+        "last_name": "Munkhzorig",
+        "email": "munkhorgil@nhs.edu.mn",
+        "age": 21,
+        "country": "Mongolia",
+        "password":"password123",
+        "point":100,
+        "type":"teacher",
+        "created_at": "2026-03-25",
+        "image" : "https://d22e6o9mp4t2lx.cloudfront.net/cms/Screenshot_2024_04_05_130256_473f8428ec.png",
+        "products":[
+            {
+                "id":1,
+                "name":"iPhone 14 Pro Max",
+                "description": "just a phone",
+                "price": 1200,
+                "image":"https://th.bing.com/th/id/OIP.wKqHiRabHboYsZaslBSWxQHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+            },
+            {
+                "id":2,
+                "name":"Shirt",
+                "description": "just a shirt",
+                "price": 50,
+                "image":"https://cdni.llbean.net/is/image/wim/228061_55853_41"
+            },
+            {
+                "id":3,
+                "name":"Airpods Pro",
+                "description": "just earbuds",
+                "price": 200,
+                "image":"https://th.bing.com/th/id/OIP.YOnKupOH0HGwFNZwGcwfXwHaHa?w=176&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "first_name": "Khishigee",
+        "last_name": "Bat",
+        "email": "khishigee@nhs.edu.mn",
+        "age": 22,
+        "country": "Mongolia",
+        "password":"password123",
+        "point":100,
+        "type":"teacher",
+        "created_at": "2026-03-25",
+        "image" : "https://d22e6o9mp4t2lx.cloudfront.net/cms/Screenshot_2024_04_05_130256_473f8428ec.png",
+        "products":[
+            {
+                "id":1,
+                "name":"iPhone 14 Pro Max",
+                "description": "just a phone",
+                "price": 1200,
+                "image":"https://th.bing.com/th/id/OIP.wKqHiRabHboYsZaslBSWxQHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+            },
+            {
+                "id":2,
+                "name":"Shirt",
+                "description": "just a shirt",
+                "price": 50,
+                "image":"https://cdni.llbean.net/is/image/wim/228061_55853_41"
+            },
+            {
+                "id":3,
+                "name":"Airpods Pro",
+                "description": "just earbuds",
+                "price": 200,
+                "image":"https://th.bing.com/th/id/OIP.YOnKupOH0HGwFNZwGcwfXwHaHa?w=176&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "first_name": "Chyamtsalnyam",
+        "last_name": "Bat",
+        "email": "chyamtsalnyam@nhs.edu.mn",
+        "age": 24,
+        "country": "Mongolia",
+        "password":"password123",
+        "point":100,
+        "type":"teacher",
+        "created_at": "2026-03-25",
+        "image" : "https://d22e6o9mp4t2lx.cloudfront.net/cms/Screenshot_2024_04_05_130256_473f8428ec.png",
+        "products":[
+            {
+                "id":1,
+                "name":"iPhone 14 Pro Max",
+                "description": "just a phone",
+                "price": 1200,
+                "image":"https://th.bing.com/th/id/OIP.wKqHiRabHboYsZaslBSWxQHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+            },
+            {
+                "id":2,
+                "name":"Shirt",
+                "description": "just a shirt",
+                "price": 50,
+                "image":"https://cdni.llbean.net/is/image/wim/228061_55853_41"
+            },
+            {
+                "id":3,
+                "name":"Airpods Pro",
+                "description": "just earbuds",
+                "price": 200,
+                "image":"https://th.bing.com/th/id/OIP.YOnKupOH0HGwFNZwGcwfXwHaHa?w=176&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3"
+            }
+        ]
     }
+    
 ]
