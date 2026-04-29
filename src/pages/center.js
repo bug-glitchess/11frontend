@@ -25,7 +25,7 @@ export default function Center() {
   return (
     <>
       <div className="bg-white w-full flex flex-col py-12 gap-12">
-        <input value={nameSearch} onChange={(e) => setNameSearch(e.target)} type="text" placeholder="Enter name" className="bg-gray-100 text-black placeholder:text-gray-500 border border-gray-300 rounded-lg py-2 px-4 mx-8" />
+        <input value={nameSearch} onChange={(e) => setNameSearch(e.target).value} type="text" placeholder="Enter name" className="bg-gray-100 text-black placeholder:text-gray-500 border border-gray-300 rounded-lg py-2 px-4 mx-8" />
         <input value={emailSearch} onChange={(e) => setEmailSearch(e.target.value)} type="text" placeholder="Enter email" className="bg-gray-100 text-black placeholder:text-gray-500 border border-gray-300 rounded-lg py-2 px-4 mx-8" />
         <div className="bg-white grid grid-cols-5 gap-4 m-4">
           {DataJson.filter((item) => item.first_name.toLowerCase().includes(nameSearch.toLowerCase()) && item.email.includes(emailSearch)).map((item) => {
