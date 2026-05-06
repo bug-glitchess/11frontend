@@ -19,7 +19,7 @@ export default function Contact() {
           {/* Header */}
           <div className="flex flex-col gap-2 sm:gap-3 items-center text-center">
             <h1 className="text-indigo-600 text-2xl sm:text-3xl md:text-4xl font-bold">Contact Us</h1>
-            <p className="text-gray-600 text-xs sm:text-sm md:text-base">We'd love to hear from you! Send us any questions or feedback.</p>
+            <p className="text-gray-600 text-xs sm:text-sm md:text-base">We wouldd love to hear from you! Send us any questions or feedback.</p>
           </div>
 
           {/* Form Fields */}
